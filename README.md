@@ -5,6 +5,9 @@ Instead of relying only on LLM reasoning, the system uses Python tools for actua
 
 With this project, you can analyze datasets of any size locally and get accurate insights through simple questions.
 
+⚠️ Don't judge a book by its cover!
+👉 Please open the uploaded PDF to explore  project Outputs.
+
 ## ✨ Key Features
 
 ✔️ Agentic AI Workflow – The AI agent decides when to use Python tools for computation.
@@ -14,6 +17,3 @@ With this project, you can analyze datasets of any size locally and get accurate
 ✔️ Upload Any Dataset – Works with datasets of any size (limited only by your local machine resources).
 
 ✔️ Privacy First – Your data never leaves your system.
-
-⚠️ Don't judge a book by its cover!
-👉 Please open the uploaded PDF to explore  project Outputs.
