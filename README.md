@@ -1,6 +1,19 @@
 # ChatData-byAbhi
-This is an Agentic Ai based project which uses python tool for data computation. You can upload any size data and ask anything from it. It gives 100% much reliable results compared to llm's.
-* No risk of sharing private data
-* No limit of uploading data size (depends on local)
 
-##don't judge a book by it's cover !
+This is an Agentic AI-powered data analysis system that allows users to upload datasets and interact with them using natural language.
+Instead of relying only on LLM reasoning, the system uses Python tools for actual data computation, making results far more reliable.
+
+With this project, you can analyze datasets of any size locally and get accurate insights through simple questions.
+
+## ✨ Key Features
+
+✔️ Agentic AI Workflow – The AI agent decides when to use Python tools for computation.
+
+✔️ Accurate Data Analysis – Uses real Python execution instead of guessing like normal LLM responses.
+
+✔️ Upload Any Dataset – Works with datasets of any size (limited only by your local machine resources).
+
+✔️ Privacy First – Your data never leaves your system.
+
+⚠️ Don't judge a book by its cover!
+👉 Please open the uploaded PDF to explore  project Outputs.
