@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-huggingface
+pandas
+plotly
+streamlit
+python-dotenv
+huggingface_hub
+langchain-community
+langchain_experimental
+langchain-core
